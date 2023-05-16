@@ -1,7 +1,9 @@
 <h1 align="center">Hi ☺, I'm Antonina</h1>
 <h3 align="center">A pragmatic and hard working frontend developer</h3>
 
-- 🤝 I speak **English, Russian, German**
+- 🔭 I’m currently working on **Project 'Unobvious laws', that would provide information about weird and unobvious laws in different countries around the world for travellers and immigrants**
+
+- 💬 I speak **English, Russian, German**
 
 - 📫 How to reach me **tonatonotonya@gmail.com**
 
