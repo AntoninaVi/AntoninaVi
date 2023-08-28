@@ -1,7 +1,7 @@
 <h1 align="center">Hi there ☺, I'm Antonina</h1>
 <h3 align="center">A pragmatic and hard working frontend developer</h3>
 
-- 💬 I speak **English, Russian, German**
+- 💬 I speak **English, Russian, German, Armenian **
 
 - 📫 How to reach me **tonatonotonya@gmail.com**
 
