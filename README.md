@@ -6,7 +6,7 @@ A pragmatic and hard working frontend developer
 
 * 🌍  I'm based in Georgia
 * ✉️  You can contact me at [tonatonotonya@gmail.com](mailto:tonatonotonya@gmail.com)
-* 🧠  I'm learning Vue.js, PHP
+* 🧠  I'm learning Vue.js, PHP, Tailwind
 * 🤝  I'm open to collaborating on new projects and actively seeking job opportunities. Feel free to reach out if you'd like to collaborate.
 * ⚡  I speak English, German, Russian, Armenian
 
