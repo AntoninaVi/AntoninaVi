@@ -6,7 +6,7 @@ A hard-working web developer with a curiosity about the world, dreaming to becom
 
 * 🌍  I'm based in Georgia
 * ✉️  You can contact me at [tonatonotonya@gmail.com](mailto:tonatonotonya@gmail.com)
-* 🧠  I'm learning PHP, Tailwind, Vue.js
+* 🧠  I'm learning Python, Tailwind, Vue.js
 * 🤝  I'm open to collaborating on on new projects and actively seeking job opportunities. Feel free to reach out if you'd like to collaborate.
 * ⚡  I speak English, German, Russian, Armenian
 
