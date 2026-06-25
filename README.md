@@ -1,5 +1,6 @@
 ### Hi there 👋, my name is Tonia
-![](https://user-images.githubusercontent.com/74038190/216649449-3f087222-10d7-4132-b128-0bb0830cdb9a.gif)
+
+<img src="(https://user-images.githubusercontent.com/74038190/216649449-3f087222-10d7-4132-b128-0bb0830cdb9a.gif)" width="500" alt="Working girl">
 
 Manual QA Engineer
 
