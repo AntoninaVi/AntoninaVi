@@ -2,7 +2,7 @@
 
 <p>
 My name is <strong>Tonya</strong> and I am a Manual QA Engineer.
-Here I share testing projects and portfolio items built through courses and personal practice.
+Here I share projects and portfolio items built through courses and personal practice.
 Feel free to check out my <a href="LINK_TO_RESUME">resume</a>.
 </p>
 
@@ -14,10 +14,10 @@ Feel free to check out my <a href="LINK_TO_RESUME">resume</a>.
 <td width="55%" valign="top">
 
 - 🧪 Manual testing is my focus: test plans, checklists, and test cases in Test IT, bug reports in Jira/YouTrack
-- ✈️ My path into QA is non-standard: from flight attendant at Aeroflot and web layout/markup work to Lead Tester at Algorithmics (edtech)
-- 📈 Grew from Tester to Lead Tester in about 1.5 years
-- 📚 Currently taking courses in Postman, Python for QA, and ISTQB Foundation Level theory
-- 🎯 Actively looking for a Junior–Middle Manual QA role
+- ✈️ My path into QA is non-standard: from flight attendant at Aeroflot and web markup work to Lead Tester at Algorithmics (edtech)
+- 📈 Grew from Tester to Lead Tester in about 7 months.
+- 📚 Currently taking courses in Python for QA, and ISTQB Foundation Level theory
+- 🎯 Actively looking for a Manual QA role
 
 </td>
 <td width="45%" valign="top">
@@ -26,7 +26,7 @@ Feel free to check out my <a href="LINK_TO_RESUME">resume</a>.
 Add your own image/gif here (square or landscape works well).
 For example: a screenshot from a testing project, a workspace photo, a fun bug-themed gif.
 -->
-<img src="LINK_TO_IMAGE" width="100%">
+<img src="https://media.tenor.com/3ozFKoQcLeoAAAAj/btm-bare-tree.gif" width="100%">
 
 </td>
 </tr>
