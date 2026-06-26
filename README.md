@@ -1,7 +1,7 @@
 <h2>Hey</h2>
 
 <p>
-My name is <strong>Tonya</strong> and I am a Manual QA Engineer.
+My name is <strong>Tonia</strong> and I am a Manual QA Engineer.
 Here I share projects and portfolio items built through courses and personal practice.
 Feel free to check out my <a href="https://drive.google.com/file/d/1dtS1L9BMNsxKP4CilcPnWO3HwEe0d-5j/view?usp=drive_link">CV</a>.
 </p>
