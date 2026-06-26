@@ -18,7 +18,7 @@ Feel free to check out my <a href="https://drive.google.com/file/d/1dtS1L9BMNsxK
 - 📈 Grew from Tester to Lead Tester in about 7 months.
 - 📚 Currently taking courses in Python for QA, and ISTQB Foundation Level theory
 - 🎯 Actively looking for a Manual QA role
-- 👾 Fun facts: 
+- 👾 Fun facts: one of my hobbies is soldering
 
 </td>
 <td width="45%" valign="top">
@@ -33,8 +33,8 @@ For example: a screenshot from a testing project, a workspace photo, a fun bug-t
 </tr>
 </table>
 
-<h2>Some Tools I Use</h2>
-<hr>
+<!-- <h2>Some Tools I Use</h2>
+<hr> -->
 
 <p>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
