@@ -6,7 +6,7 @@ Here I share projects and portfolio items built through courses and personal pra
 Feel free to check out my <a href="https://drive.google.com/file/d/1dtS1L9BMNsxKP4CilcPnWO3HwEe0d-5j/view?usp=drive_link">CV</a>.
 </p>
 
-<h2>A Few Quick Facts</h2>
+<h3>A Few Quick Facts</h3>
 <hr>
 
 <table>
