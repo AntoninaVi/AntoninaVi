@@ -1,38 +1,38 @@
-<h1>Привет, я ищу баги 🐞</h1>
+<h1>Hey, let me find some bugs 🐞</h1>
 
 <p>
-Меня зовут <strong>Тоня</strong>, я Manual QA Engineer.
-Здесь — мои тестовые проекты и портфолио, собранные на курсах и в личных задачах.
-Будет интересно глянуть моё <a href="ССЫЛКА_НА_РЕЗЮМЕ">резюме</a>.
+My name is <strong>Tonya</strong> and I am a Manual QA Engineer.
+Here I share testing projects and portfolio items built through courses and personal practice.
+Feel free to check out my <a href="LINK_TO_RESUME">resume</a>.
 </p>
 
-<h2>Несколько быстрых фактов</h2>
+<h2>A Few Quick Facts</h2>
 <hr>
 
 <table>
 <tr>
 <td width="55%" valign="top">
 
-- 🧪 Мануальное тестирование — мой фокус: тест-планы, чек-листы, тест-кейсы в Test IT, баг-репорты в Jira/YouTrack
-- ✈️ Путь в QA — нестандартный: от бортпроводника «Аэрофлота» и вёрстки сайтов до Ведущего тестировщика в Algorithmics (edtech)
-- 📈 Выросла за ~1.5 года от Тестировщика до Ведущего тестировщика
-- 📚 Сейчас прохожу курсы по Postman, Python для QA и теорию ISTQB Foundation Level
-- 🎯 В активном поиске позиции Junior–Middle Manual QA
+- 🧪 Manual testing is my focus: test plans, checklists, and test cases in Test IT, bug reports in Jira/YouTrack
+- ✈️ My path into QA is non-standard: from flight attendant at Aeroflot and web layout/markup work to Lead Tester at Algorithmics (edtech)
+- 📈 Grew from Tester to Lead Tester in about 1.5 years
+- 📚 Currently taking courses in Postman, Python for QA, and ISTQB Foundation Level theory
+- 🎯 Actively looking for a Junior–Middle Manual QA role
 
 </td>
 <td width="45%" valign="top">
 
 <!--
-Сюда — своя картинка/гифка (квадратное или альбомное изображение хорошо смотрится).
-Например: скрин из тестового проекта, фото с рабочего места, забавная гифка про баги.
+Add your own image/gif here (square or landscape works well).
+For example: a screenshot from a testing project, a workspace photo, a fun bug-themed gif.
 -->
-<img src="ССЫЛКА_НА_ИЗОБРАЖЕНИЕ" width="100%">
+<img src="LINK_TO_IMAGE" width="100%">
 
 </td>
 </tr>
 </table>
 
-<h2>Инструменты, которые я использую</h2>
+<h2>Some Tools I Use</h2>
 <hr>
 
 <p>
@@ -51,5 +51,3 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
-<img src="https://user-images.githubusercontent.com/74038190/216649449-3f087222-10d7-4132-b128-0bb0830cdb9a.gif" width="500" alt="Working girl">
-
