@@ -3,7 +3,7 @@
 <p>
 My name is <strong>Tonya</strong> and I am a Manual QA Engineer.
 Here I share projects and portfolio items built through courses and personal practice.
-Feel free to check out my <a href="LINK_TO_RESUME">resume</a>.
+Feel free to check out my <a href="https://drive.google.com/file/d/1dtS1L9BMNsxKP4CilcPnWO3HwEe0d-5j/view?usp=drive_link">CV</a>.
 </p>
 
 <h2>A Few Quick Facts</h2>
@@ -18,6 +18,7 @@ Feel free to check out my <a href="LINK_TO_RESUME">resume</a>.
 - 📈 Grew from Tester to Lead Tester in about 7 months.
 - 📚 Currently taking courses in Python for QA, and ISTQB Foundation Level theory
 - 🎯 Actively looking for a Manual QA role
+- 👾 Fun facts: 
 
 </td>
 <td width="45%" valign="top">
