@@ -1,4 +1,4 @@
-<h1>Hey, let me find some bugs 🐞</h1>
+<h2>Hey</h2>
 
 <p>
 My name is <strong>Tonya</strong> and I am a Manual QA Engineer.
