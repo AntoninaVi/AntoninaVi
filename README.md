@@ -13,7 +13,7 @@ Feel free to check out my <a href="https://drive.google.com/file/d/1dtS1L9BMNsxK
 <tr>
 <td width="55%" valign="top">
 
-- ✈️ My path into QA is non-standard from flight attendant at Aeroflot and web markup work to Lead Tester at Algorithmics (edtech)
+- ✈️ My path into QA is non-standard from flight attendant at Aeroflot and web markup work to Lead Tester at Algorithmics (edtech).
 - 📈 Grew from Tester to Lead Tester in about 7 months.
 - 📚 Currently taking courses in Python for QA, and ISTQB Foundation Level theory.
 - 👾 Fun facts: one of my hobbies is soldering.
